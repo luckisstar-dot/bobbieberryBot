@@ -1,0 +1,5 @@
+python-telegram-bot==21.0.1
+python-dotenv
+supabase>=2.0.0
+gTTS
+pytz
